@@ -1,0 +1,66 @@
+Dear authors,
+Herein is my response to the manuscript entitled “Neural and endocranial anatomy of Triassic phytosaurian reptiles and convergence with fossil and modern crocodylians”, submitted to the journal PeerJ (MS #10457).
+Lautenschlager and Butler present an impressive and detailed investigation of the comparative neurocranial anatomy between phytosaurs and modern and extinct crocodylomorphs. This is an exciting development in the field of convergent evolution, something that has long been discussed between these two groups. The study uses impressive techniques to compare the digital endocasts of phytosaur taxa, and compares these to existing information. The only caveat I would add to this study is that some of the interpretations are perhaps taking the data a little too far. This is not a fault of the study, as creating endocranial casts for all Crocodyliformes would be a monolithic task, but more a problem that this is a relatively emerging field of study and the data availability for comparisons is limited (i.e., a constrained sample size). 
+I note at the beginning of this review that I am neither an expert in phytosaurs or neuroanatomy, and my relevant expertise is in the systematics and anatomy of crocodyliforms. As such, my suggested revisions are extremely minor, and I recommend publication, pending peer review from an expert on phytosaurs or neuroanatomy.
+
+Basic reporting
+Figures
+The figures are well annotated, numerous, and informative. I strongly recommend that these be used in a press release for this paper, seeing as it pushes our boundary about what we know about phytosaurs in an exciting way.
+
+Data
+See comments below.
+
+Experimental design
+The study presents new research, and is well within the scope of PeerJ. The research question is well-defined, but could do with a bit more information on the scope and importance of the study. The technical standard of work performed is very high. If the scans are deposited in a more public repository, then this study should be broadly replicable (this is somewhat unclear at the present, see comments below).
+
+Validity of the findings
+The data collected in this study is of high quality. No statistical tests were performed. The conclusions are broadly supported by the data, but a couple of caveats/limitations could be added for increased context.
+
+General comments
+Abstract
+The abstract is concise, with a good balance of context and novel findings. My only comment is that it could do with a single final sentence on the broader implications or importance of the present study.
+Line 22-23: It might not be necessary for the abstract, but could authority information be provided here for a little more context for the taxon names?
+Line 28: Which taxa/group? Assume it means Crocodylia, but could be more explicit.
+Line 34: Might be worth adding a couple more keywords to enhance discoverability? Archosauria, Pseudosuchia, Crocodyliformes etc?
+
+Introduction
+Line 37: What makes them unusual? I mean, compared to all the other unusual groups around at that time!
+Line 42: For clarity, it should be mentioned what the other major archosaur branch is here.
+Line 45: Should cite Ezcurra (2016), if this is the study mentioned. Is the reason for this due to different methods, character sampling, and/or taxon sampling and newer discoveries? Is this what prompted the present analysis – to see if endocranial characteristics could help refine their phylogenetic relationships?
+Line 45: Is it just the skulls that are superficially similar? Or just the snouts? Or the whole skeleton?
+Line 47: How large? What is the variation? And what about other longirostrine crocodyliforms like dyrosaurids, thalattosuchians, and some pholidosaurids (all non-crocodylians)? Is there a reason why you chose to solely focus on Crocodylia for this comparison? Have any studies looked at comparisons between phytosaurs and these groups (i.e., non-crocodylian crocodyliforms) before?
+Line 47: How many rows of osteoderms for each group? This is a highly taxonomically informative feature within crocodyliforms.
+Line 54: It might also be worth noting that there is around 100 million years of temporal difference between the extinction of phytosaurs and the origin of Crocodylia? And also a fairly large phylogenetic distance.
+Line 59: What is meant here by ‘ecological niche’? Does it mean piscivory, in which case ‘diet’ might just be more appropriate?
+Line 64. This sentence is a bit complicated and could do with being broken down. It could do with some citations here to support this range of research topics.
+Line 69. Did this study comment at all on similarity with crocodylians? How is the present study distinct from this (apart from taxonomic choice)? Where there any limiting factors to the Holloway study, or limitations of what one could infer from it?
+
+Materials and Methods
+Regarding specimens, why were these two specifically chosen? Because they’re both accessible at the BSPG? I know doing so would be a humungous study beyond the scope of the present one, but why just two specimens from these particular taxa? Do they capture the full variation of a fairly speciose clade in order to facilitate meaningful comparison both within Phytosauria and with Crocodylia? A little more justification could be provided here for clarity.
+Can the CT data be made available more broadly? I don’t know what the supplementary file size is with PeerJ, but perhaps with Figshare just to make them a little more available? Obviously deposition within the BSPG collection satisfies criteria, but would they be available offsite there? (i.e., to those unable to travel to Munich)
+
+Results
+Line 125: What does it mean for an endocast to be ‘straight’, as a 3D object? In which orientation are they ‘elongate’? How long are the olfactory tracts?
+Line 132: Which taxon has this mid- and hind-brain region morphology? I wonder if this section could do with being structured with separate descriptions for each taxa, noting the similarities and differences?
+Line 165: How important is it that information about potentially smaller structures is not being captured by the methods applied? Is there a way around this for future studies, or is it a trivial point?
+It was mentioned that Machaeroprosopus mccauleyi had also had a recent digital endocast constructed. It might be nice to have a bit more comparative anatomical discussion between the results of the present study and of that, in order to differentiate between mystriosuchine and non-mystriosuchine taxa, especially given that available information on phytosaur endocasts is relatively few, at the present.
+Line 231: Details of the retrodeformation process should be provided more in the methods section, and not in this subsection. How did the ~40% dorsoventral compression factor be reached?
+Line 264. This needs a citation to support that the features a plesiomorphic for Crocodyliformes.
+Line 268. It should be noted that Cricosaurus is a metriorhynchoid, which might actually be a non-crocodyliform crocodylomorph, if the analyses of Wilberg (2015) are found to be supported. Also, for Pholidosaurus it should be noted that it is a neosuchian, and not a crocodylian, closely related to goniopholidids (so perhaps considered as a grade of ‘basal’ neosuchian). I feel it is important to note that these comparisons are been made to a very wide phylogenetic range of crocodylomorph taxa, that themselves are phylogenetically disparate. Also, the title might be misleading in this respect, as these are not fossil crocodylians, but crocodyliforms/morphs.
+Wilberg, E. W. (2015) What's in an outgroup? The impact of outgroup choice on the phylogenetic position of Thalattosuchia (Crocodylomorpha) and the origin of Crocodyliformes. Systematic Biology, (64): 621-637.
+Line 277: Which taxa does this refer to? How do the paranasal sinuses vary between those taxa? I think more comparison should be given here if possible, as this is a central theme indicated by the title. Also, these two comparative paragraphs should emphasise, or make more explicit, how the morphologies represent convergence, as indicated in the title. Indeed, the second paragraph is about differences between phytosaurs and Cricosaurus. 
+
+Discussion
+Line 294: This might hold in comparison to birds and dinosaurs, but more generally is untrue of crocodyliforms. We see a vast ecological and physiological range in their history, from 12 metre long pelagic forms with streamlined body forms to terrestrial herbivores which were like armoured tanks. Compared to the ‘stock’ of ‘basal’ Crocodyliformes, I’d say some of these bauplans were quite divergent, including at least two independent fully marine radiations, which undoubtedly were coupled with different ecological and physiological demands. Not as dramatic as the ‘bird-dinosaur’ transition, but still representative of large changes.
+Line 299: It should be clear that this is based on a relatively small sample of Crocodyliformes, which are a fairly diverse clade historically. Nothing to do with the study, but simply based on the available information at this stage.
+Line 300. I appreciate that functional morphology of this sort is extremely complicated. Are there any documented cases where the changes you have identified have been correlated with ecological/behavioural factors? Even in distantly related groups? Do the apparent convergences identified share the same function? Can we say anything about their comparative ecology based on this?
+Line 302: I don’t fully agree with this conclusion. Cricosaurus was a fully aquatic, pelagic, taxon. Pholidosaurus was also probably at least semi-aquatic, spending much of its time out to sea. Other longirostrine crocodyliforms were also semi-aquatic or fully aquatic (teleosauroids, dyrosaurids, gavialoids, other pholidosaurids), and adapted to a range of ‘ecological niches’ beyond those explored here (I would still avoid this term to be more specific). I think this is a bit too much of a stretch due to the limited comparisons made here across such a broad suite of taxa. Again, not a fault of the study, but due to availability of that data. Only three extant crocodylians where comparatively analysed, and two extinct crocodylomorphs. Therefore making inferences for either all longirostrine crocodyliforms, or all crocodyliforms, is perhaps stretching what can be inferred a little too far. I don’t think there is any harm in restricting conclusions to be explicit about those taxa and those groups. It should also be very clear that longirostrine crocodyliforms are not a monophyletic grouping, but that snout elongation has probably evolved multiple times in different lineages.
+Line 309: Is this morphology found in any crocodyliforms that are not exclusively aquatic? At the present, the sampling of crocodyliform taxa doesn’t account for a huge range of groups and morphologies (e.g., goniopholidids, atoposaurids, paralligatorids, dyrosaurids, bernissartiids, allodaposuchids etc.), and I feel the limitations of possible inference because of this should be made more explicit.
+
+Conclusions
+Line 325: As above, I think implying that based on a very small sample, you can extrapolate to all of Crocodyliformes, as this seems to imply. The next sentence conveys this, but I would integrate this into the preceding sentence for clarity, and instead finish the conclusions with what needs to be done in order to facilitate larger-scale comparisons.
+I congratulate the authors on a well-conducted study, and look forward to seeing it published.
+Best,
+Jonathan Tennant
+
+On Publons: https://publons.com/p/428795/
